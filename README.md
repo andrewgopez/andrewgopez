@@ -1,9 +1,9 @@
 # 👋 Hi there, I’m Andrew Gopez.
 
 ## Table of Contents:
-[About me](https://github.com/andrewgopez/andrewgopez/edit/main/README.md#about-me)
+[About me](https://github.com/andrewgopez/andrewgopez?tab=readme-ov-file#about-me)
 <br>
-[Languages/Concepts learned](https://github.com/andrewgopez/andrewgopez/edit/main/README.md#languagesconcepts-learnt)
+[Languages/Concepts learned](https://github.com/andrewgopez/andrewgopez?tab=readme-ov-file#languagesconcepts-learned)
 
 ## About me
 I am a computer science student based in Montreal, Canada. I started coding during the COVID-19 pandemic and developed a passion for HTML, CSS, and JavaScript. As a computer science student, I've been interested in websites, computer architecture, and console app development since I was young. Seeing people impressed with my computer science major is what I love about being in computer science. My goal is to contribute innovative solutions and collaborate with like-minded individuals, pushing the boundaries of technology. 
