@@ -23,4 +23,6 @@ My primary goal is to contribute innovative solutions to real-world problems and
 [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4)
 <br>
 [Markdown](https://www.markdownguide.org/getting-started/)
+<br>
+[TypeScript](https://www.typescriptlang.org/)
 
