@@ -24,5 +24,8 @@ My primary goal is to contribute innovative solutions to real-world problems and
 <br>
 [Markdown](https://www.markdownguide.org/getting-started/)
 <br>
-[TypeScript](https://www.typescriptlang.org/)
+[TypeScript*](https://www.typescriptlang.org/)
+<br>
+[Java*](https://en.wikipedia.org/wiki/Java_(programming_language))
 
+*Currently learning/Will be learning in the future
