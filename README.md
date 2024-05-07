@@ -26,6 +26,6 @@ My primary goal is to contribute innovative solutions to real-world problems and
 <br>
 [TypeScript*](https://www.typescriptlang.org/)
 <br>
-[Java*](https://en.wikipedia.org/wiki/Java_(programming_language))
+[Java*](https://aws.amazon.com/what-is/java/#:~:text=Java%20is%20a%20multi%2Dplatform,applications%20and%20server%2Dside%20technologies.)
 
 *Currently learning/Will be learning in the future
