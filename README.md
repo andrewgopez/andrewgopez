@@ -12,20 +12,20 @@ I am a computer science student based in Montreal, Canada. I started coding duri
 My primary goal is to contribute innovative solutions to real-world problems and collaborate with like-minded individuals who share a passion for pushing the boundaries of technology. I am eager to apply my skills and knowledge in practical ways that make a positive impact.
 
 ## Languages/Concepts learned
-[C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 <br>
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
-[HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <br>
-[CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br>
-[PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 <br>
-[Markdown](https://www.markdownguide.org/getting-started/)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 <br>
-[TypeScript*](https://www.typescriptlang.org/)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
-[Java*](https://aws.amazon.com/what-is/java/#:~:text=Java%20is%20a%20multi%2Dplatform,applications%20and%20server%2Dside%20technologies.)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)*
 
-*Currently learning/Will be learning in the future
+*Will be learning in the future
