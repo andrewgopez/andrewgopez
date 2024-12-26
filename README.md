@@ -6,10 +6,10 @@
 [Languages/Concepts learned](https://github.com/andrewgopez/andrewgopez?tab=readme-ov-file#languagesconcepts-learned)
 
 ## About me
-Hi, I'm Andrew, a former Computer Science student now studying Linguistics and Speech-Language Pathology (SLP) in Montreal. I started coding during the COVID-19 pandemic and quickly developed a passion for HTML, CSS, and JavaScript. I've always been fascinated by technology and enjoyed working on websites and applications. Although I’m now focused on linguistics and SLP, I continue to pursue computer programming and web design as hobbies.
+Hi, I'm Andrew, a former Computer Science student now studying Arts, Literature and Communication in Montreal. I started coding during the COVID-19 pandemic and quickly developed a passion for HTML, CSS, and JavaScript. I've always been fascinated by technology and enjoyed working on websites and applications. Although I’m now focused on linguistics, languages and communication, I continue to pursue computer programming and web design as hobbies.
 
 ### Goals
-I aim to blend my computer science background with my studies in linguistics and SLP to develop innovative tools and solutions that enhance communication and language therapy. I aim to leverage my technical skills to advance research and practice in these fields, creating impactful and accessible solutions for those in need.
+I aim to blend my computer science background with my studies in communication and language to develop innovative tools and solutions that enhance communication and language therapy. I aim to leverage my technical skills to advance research and practice in these fields, creating impactful and accessible solutions for those in need.
 
 ## Languages/Concepts learned
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
