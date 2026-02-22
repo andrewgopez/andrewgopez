@@ -1,15 +1,10 @@
-# 👋 Hi there, I’m Andrew Gopez.
-
-## Table of Contents:
-[About me](https://github.com/andrewgopez/andrewgopez?tab=readme-ov-file#about-me)
-<br>
-[Languages/Concepts learned](https://github.com/andrewgopez/andrewgopez?tab=readme-ov-file#languagesconcepts-learned)
+# 👋 Hi, I'm Andrew Gopez!
 
 ## About me
-Hi, I'm Andrew, a former Computer Science student now studying Arts, Literature and Communication in Montreal. I started coding during the COVID-19 pandemic and quickly developed a passion for HTML, CSS, and JavaScript. I've always been fascinated by technology and enjoyed working on websites and applications. Although I’m now focused on linguistics, languages and communication, I continue to pursue computer programming and web design as hobbies.
+I am former Computer Science student (2022-2024) who is now studying Arts, Literature, and Communication (ALC) at John Abbott College in Montreal. Growing up, I was always interested in technology and the way computers work. I often wondered how they could understand and execute tasks so perfectly. My dad works in the tech industry, and seeing him at work made me curious and eager to learn more. When I expressed my interest, he first taught me web design, showing me how to create simple websites using HTML, the basic language for building webpages. Later, during the COVID-19 pandemic, I discovered a deeper passion for coding and quickly started exploring CSS and JavaScript. While my focus is now on languages, communication, and leadership, I continue to explore programming and web design as hobbies. I’m also interested in combining my technical skills with creativity to develop projects that make a real impact and improve how people interact with technology.
 
-### Goals
-I aim to blend my computer science background with my studies in communication and language to develop innovative tools and solutions that enhance communication and language therapy. I aim to leverage my technical skills to advance research and practice in these fields, creating impactful and accessible solutions for those in need.
+## Goals
+Although I am no longer studying Computer Science, I aim to combine my technical background with my studies in communication and language to create innovative tools and solutions that enhance how people connect and communicate. While my focus is now on languages, communication, and leadership, I continue to explore programming and web design as hobbies. I’m also interested in combining my technical skills with creativity to develop projects that make a real impact and improve how people interact with technology. I’m passionate about exploring the intersection of technology, creativity, and human interaction, and I hope to develop projects that are both useful and engaging. In the end, I want to keep learning, growing, and using my skills to make a positive impact through meaningful work.
 
 ## Languages/Concepts learned
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
