@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrew Gopez!
+# 👋 Hi, I'm Andrew!
 
 ## 😎 About me
 I am a former Computer Science student (2022-2024) who will soon be studying Linguistics (with a minor in Education) in Montreal. From a very young age, I was interested in technology and the way computers work, often wondering how they could understand and execute tasks so perfectly. My dad works in the industry, and seeing him at work made me curious and eager to learn more. When I expressed my interest, he first taught me web design, showing me how to create simple websites using HTML. Later, during the COVID-19 pandemic, I discovered a deeper passion for coding and quickly started exploring CSS and JavaScript. Although my focus is now on languages, communication, and leadership, I still enjoy coding and web design as hobbies, using creativity and tech to build projects that make a real impact.
