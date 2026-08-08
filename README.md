@@ -8,7 +8,7 @@ Although I eventually chose to pursue a different academic path, my experience i
 ## 🎯 Goals
 My goal is to become a teacher and use my background in technology, along with my studies in Linguistics and Education, to create engaging and meaningful learning experiences. I want to explore how technology can support teaching, communication, and language learning, while finding creative ways to make lessons more interactive and accessible to students.
 
-I also hope to continue developing my skills as an educator, learn from the people around me, and adapt to the needs of my students. Ultimately, I want to become a teacher who not only helps students learn, but also encourages their curiosity, creativity, and confidence.
+I also hope to continue developing my skills as an educator, learn from the people around me, and adapt to the needs of my students. Looking ahead, I want to be an educator who not only helps students learn, but also encourages their curiosity, creativity, and confidence.
 
 ## 💻 Languages/Concepts learned
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://www.w3schools.com/cs/index.php)
