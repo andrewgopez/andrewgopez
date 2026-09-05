@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Andrew!
 
 ## 😎 About me
-I am a former Computer Science student (2022–2024) who will soon be studying Linguistics with a minor in Education in Montreal. From a very young age, I was fascinated by technology and the way computers work, often wondering how they could understand and execute tasks so precisely. My dad works in the tech industry, and seeing him at work sparked my curiosity and encouraged me to learn more. When I expressed my interest, he introduced me to web design and taught me how to create simple websites using HTML. Later, during the COVID-19 pandemic, I developed a deeper passion for coding and began exploring CSS and JavaScript.
+I am a former Computer Science student (2022–2024) who is currently studying Linguistics with a minor in Education at Concordia University in Montreal. From a very young age, I was fascinated by technology and the way computers work, often wondering how they could understand and execute tasks so precisely. My dad works in the tech industry, and seeing him at work sparked my curiosity and encouraged me to learn more. When I expressed my interest, he introduced me to web design and taught me how to create simple websites using HTML. Later, during the COVID-19 pandemic, I developed a deeper passion for coding and began exploring CSS and JavaScript.
 
 Although I eventually chose to pursue a different academic path, my experience in Computer Science remains an important part of my background. Today, my interests are primarily focused on languages, communication, and leadership, while I continue to explore coding and web design as hobbies. I enjoy combining creativity and technology to build projects that are useful, engaging, and meaningful.
 
