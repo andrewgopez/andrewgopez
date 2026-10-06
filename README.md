@@ -10,6 +10,13 @@ My goal is to become a teacher and use my background in technology, along with m
 
 I also hope to continue developing my skills as an educator, learn from the people around me, and adapt to the needs of my students. Looking ahead, I want to be an educator who not only helps students learn, but also encourages their curiosity, creativity, and confidence.
 
+## 📂 Projects
+
+**Some of my projects include:**
+- 🕰️ **ALC Graduation Project** — A visual timeline about my journey from Computer Science to ALC and the challenges (and lessons) I experienced along the way.
+- 🎉 **18th Birthday Invitation** — A digital invitation based on a design created by my mom.
+- 🌍 **Italian Culture Website** — A website exploring Italian culture, food, language, traditions, history, and all 20 regions of Italy.
+
 ## 💻 Languages/Concepts learned
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://www.w3schools.com/cs/index.php)
 <br>
