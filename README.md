@@ -16,6 +16,7 @@ I also hope to continue developing my skills as an educator, learn from the peop
 - 🕰️ **ALC Graduation Project** — A visual timeline about my journey from Computer Science to ALC and the challenges (and lessons) I experienced along the way.
 - 🎉 **18th Birthday Invitation** — A digital invitation based on a design created by my mom.
 - 🌍 **Italian Culture Website** — A website exploring Italian culture, food, language, traditions, history, and all 20 regions of Italy.
+- 🎃 **Halloween Party Website** - A website I created for a former classmate’s Halloween party.
 
 ## 💻 Languages/Concepts learned
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://www.w3schools.com/cs/index.php)
