@@ -10,10 +10,13 @@
 
 ### 🚀 About Me
 
-I studied Computer Science from 2022 to 2024, inspired by my father’s work in technology, and learned HTML, CSS, and JavaScript through my interest in web design and coding; although I now study Linguistics with a minor in Education at Concordia University, I still enjoy coding and web design as hobbies while exploring my interests in languages, communication, and leadership.
+I studied Computer Science from 2022 to 2024, followed by Arts, Literature and Communication (ALC) from 2024 to 2026, where I developed a passion for languages and public speaking. I now study Linguistics with a minor in Education at Concordia University. Although I no longer study Computer Science, I still enjoy coding and web design as hobbies, having learned HTML, CSS, and JavaScript with inspiration from my dad.
 
 🔭 &nbsp;I'm currently working on **personal web development projects**  
-😄 &nbsp;Pronouns: **he/him**
+🌱 &nbsp;I'm currently learning **linguistics and exploring new web development tips and tricks.**  
+👯 &nbsp;I'm looking to collaborate on **web projects for family, friends, teachers, and others.**  
+😄 &nbsp;Pronouns: **he/him**  
+⚡ &nbsp;Fun fact: **I am currently learning Spanish and Italian on Duolingo.**
 
 ### 🛠️ Tech Stack
 
