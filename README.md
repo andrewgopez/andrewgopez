@@ -10,11 +10,10 @@
 
 ### 🚀 About Me
 
-I studied Computer Science from 2022 to 2024, followed by Arts, Literature and Communication (ALC) from 2024 to 2026, where I developed a passion for languages and public speaking. I now study Linguistics with a minor in Education at Concordia University. Although I no longer study Computer Science, I still enjoy coding and web design as hobbies, having learned HTML, CSS, and JavaScript with inspiration from my dad.
+I studied Computer Science (2022–2024) before switching to Arts, Literature and Communication (2024–2026), where I developed a passion for languages and public speaking. I now study Linguistics with an Education minor at Concordia University, while keeping coding and web design as hobbies, inspired by growing up watching my dad work in tech.
 
-🔭 &nbsp;I'm currently working on **personal web development projects**  
-🌱 &nbsp;I'm currently learning **linguistics and exploring new web development tips and tricks.**  
-👯 &nbsp;I'm looking to collaborate on **web projects for family, friends, teachers, and others.**  
+🔭 &nbsp;I'm currently working on **personal web projects and projects for others.**  
+💬 &nbsp;Ask me about **anything you want!**  
 😄 &nbsp;Pronouns: **he/him**  
 ⚡ &nbsp;Fun fact: **I am currently learning Spanish and Italian on Duolingo.**
 
@@ -26,9 +25,9 @@ I studied Computer Science from 2022 to 2024, followed by Arts, Literature and C
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
 
